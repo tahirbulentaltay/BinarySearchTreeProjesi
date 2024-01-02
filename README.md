@@ -1,5 +1,5 @@
 # BinarySearchTreeProjesi
-Kodluyoruz FrontEnd 101 Eğitiminde Binary search Tree Proje Reposu
+Kodluyoruz FrontEnd 101 Eğitiminde Binary Search Tree Proje Reposu
 
 7,5,1,8,3,6,0,9,4,2
 
